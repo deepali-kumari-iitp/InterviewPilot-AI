@@ -1,16 +1,91 @@
-# React + Vite
+# 🚀 InterviewPilot AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic AI-powered interview preparation platform built using **React, Tailwind CSS, Framer Motion, n8n, Railway, and Groq AI**.
 
-Currently, two official plugins are available:
+Live Demo:
+https://deepali-kumari-iitp.github.io/InterviewPilot-AI/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🤖 AI-generated interview questions
+* 💡 Smart AI answers generation
+* 🎨 Premium futuristic SaaS UI
+* 🌌 Glassmorphism + cinematic animations
+* ⚡ Real-time webhook integration using n8n
+* 🧠 Groq AI integration
+* 📱 Fully responsive design
+* ✨ Cursor bubble effects and neon UI
+* 🚀 Live deployed frontend + backend
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tech Stack
+
+## Frontend
+
+* React
+* Tailwind CSS
+* Framer Motion
+* Axios
+* Lucide React
+
+## Backend Automation
+
+* n8n
+* Railway
+
+## AI
+
+* Groq API
+* Llama 3.3 70B Versatile
+
+---
+
+# ⚙️ Installation
+
+```bash
+git clone https://github.com/deepali-kumari-iitp/InterviewPilot-AI.git
+cd InterviewPilot-AI/client
+npm install
+npm run dev
+```
+
+---
+
+# 🔑 Environment Variables
+
+Create a `.env` file inside `client/`
+
+```env
+VITE_N8N_WEBHOOK_URL=YOUR_WEBHOOK_URL
+```
+
+---
+
+# 🚀 Deployment
+
+## Frontend
+
+* GitHub Pages
+
+## Backend
+
+* Railway (n8n)
+
+---
+
+# 📸 Preview
+
+Modern AI-powered interview preparation experience with futuristic animations and premium UI.
+
+---
+
+# 👩‍💻 Author
+
+Deepali Kumari
+IIT Patna
+
+GitHub:
+https://github.com/deepali-kumari-iitp
